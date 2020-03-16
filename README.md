@@ -7,7 +7,7 @@ Use this thing:[scel4mb](https://github.com/zhanghua000/scel4mb), download a sou
 ## Note: 
 you may need `libXft.so.2` ,it is provided by `lib32-libxft` in Arch Linux, other distributions may have similar name.
 Add these sougou pinyin thesauruses in these files:
-
+![.scel file list](https://github.com/zhanghua000/fcitx-pinyin-thesaurus-custom/raw/master/Screenshot_20200316_120636.png)
 
 ## 中文
 ### 怎样使用？
@@ -17,4 +17,4 @@ Add these sougou pinyin thesauruses in these files:
 ### 注意：
 缺少`libXft.so.2`时在Arch Linux下安装`lib32-libxft`，其他Linux发行版请自行查找相似软件包。
 这个项目的文件加入了以下搜狗拼音细胞词库：
-
+![细胞词库列表](https://github.com/zhanghua000/fcitx-pinyin-thesaurus-custom/raw/master/Screenshot_20200316_120636.png)
